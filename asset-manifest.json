@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-Licciardello/static/css/main.04179b6f.css",
+    "main.js": "/landing-Licciardello/static/js/main.b0e71c7c.js",
+    "static/js/787.6e5671bb.chunk.js": "/landing-Licciardello/static/js/787.6e5671bb.chunk.js",
+    "static/media/logo.svg": "/landing-Licciardello/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/landing-Licciardello/index.html",
+    "main.04179b6f.css.map": "/landing-Licciardello/static/css/main.04179b6f.css.map",
+    "main.b0e71c7c.js.map": "/landing-Licciardello/static/js/main.b0e71c7c.js.map",
+    "787.6e5671bb.chunk.js.map": "/landing-Licciardello/static/js/787.6e5671bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.b0e71c7c.js"
+  ]
+}
